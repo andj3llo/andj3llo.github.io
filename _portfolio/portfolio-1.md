@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Light's Out!"
+excerpt: "In a year-long collaborative project, I tackled the issue of sleep deprivation caused by video games. Through extensive research and the application of the engineering design process, I developed a makeshift controller and a phone application to address this challenge. Throughout the project, I delivered comprehensive presentations at key milestones, showcasing our progress and the effectiveness of our solutions. Languages Used: Arduino IDE, MIT APP Inventor, Processing<br/><img src='/images/Lights Out Wiring.jpg'>"
 collection: portfolio
 ---
 
