@@ -21,14 +21,8 @@ I designed and built a home audio system featuring a three-band equalizer, Class
 
 <div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
   <div style="width:500px; max-width:100%; aspect-ratio:5/3;">
-    <img src="/images/OLEDScreen.jpg"
-         alt="Home Audio System OLED display"
-         style="width:100%; height:100%; object-fit:contain; display:block;">
-  </div>
-
-  <div style="width:500px; max-width:100%; aspect-ratio:5/3;">
-    <img src="/images/FinalHomeAudioSystem.gif"
-         alt="Home Audio System demonstration"
+    <img src="/images/FinalHomeAudioSystem2.gif"
+         alt="Home Audio System Live Demo"
          style="width:100%; height:100%; object-fit:contain; display:block;">
   </div>
 </div>
