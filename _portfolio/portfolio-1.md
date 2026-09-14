@@ -1,27 +1,28 @@
 ---
-title: "Cookie Clicker Embedded System"
+title: "Home Audio System"
 excerpt: >-
-  An interrupt-driven MSP432 game featuring real-time input, automated clicking, and non-blocking firmware.<br/>
-  <img src="/images/CookieClicker.jpg"
-       alt="Cookie Clicker Embedded System"
+  A three-band equalizer, Class-D amplifier, and real-time OLED spectrum analyzer.<br/>
+  <img src="/images/FinalHomeAudioSystem2.gif"
+       alt="Home Audio System demonstration"
        style="width:500px; height:300px; max-width:100%; object-fit:contain; display:block;">
 collection: portfolio
 ---
 
-**Completed:** December 2025
+**Completed:** April 2026
 
-I developed an embedded Cookie Clicker game for the MSP432 featuring real-time user input, automated clicking, and responsive display updates. The system used interrupt-driven programming and periodic scheduling to manage multiple operations without blocking execution.
+I designed and built a home audio system featuring a three-band equalizer, Class-D amplifier, and real-time OLED spectrum analyzer. The project combined analog circuit design, signal processing, embedded programming, simulation, and hardware testing.
 
-- Developed an interrupt-driven MSP432 application using ADC, SPI, GPIO, and hardware timers for real-time interaction.
-- Implemented non-blocking firmware with periodic scheduling for concurrent input processing, display updates, and automated clicking.
-- Integrated multiple peripherals and validated system performance through **30+ tests**, ensuring reliable timing and responsiveness.
+- Designed a three-band equalizer covering **100 Hz–8 kHz** using active filters, achieving **less than 4 dB of ripple** and **±12 dB gain control**.
+- Built a Class-D amplifier using **over 80 kHz PWM**, transistor switching, and RLC filtering for efficient audio output.
+- Programmed an Arduino to generate high-frequency PWM and control an OLED interface for real-time spectrum visualization.
+- Integrated and tested the complete system using LTSpice simulations and hardware validation to ensure stable, low-distortion performance.
 
-**Technologies Used:** MSP432, ADC, SPI, GPIO, Hardware Timers
+**Languages and Tools Used:** Arduino IDE, C++, LTSpice
 
-<div style="display:flex; justify-content:center; align-items:center;">
+<div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
   <div style="width:500px; max-width:100%; aspect-ratio:5/3;">
-    <img src="/images/CookieClicker.jpg"
-         alt="Cookie Clicker Embedded System hardware"
+    <img src="/images/FinalHomeAudioSystem2.gif"
+         alt="Home Audio System Live Demo"
          style="width:100%; height:100%; object-fit:contain; display:block;">
   </div>
 </div>
