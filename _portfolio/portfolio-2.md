@@ -2,8 +2,8 @@
 title: "Home Audio System"
 excerpt: >-
   A three-band equalizer, Class-D amplifier, and real-time OLED spectrum analyzer.<br/>
-  <img src="/images/SpectrumAnalyzer.png"
-       alt="Home Audio System spectrum analyzer"
+  <img src="/images/FinalHomeAudioSystem2.gif"
+       alt="Home Audio System demonstration"
        style="width:500px; height:300px; max-width:100%; object-fit:contain; display:block;">
 collection: portfolio
 ---
@@ -27,8 +27,8 @@ I designed and built a home audio system featuring a three-band equalizer, Class
   </div>
 
   <div style="width:500px; max-width:100%; aspect-ratio:5/3;">
-    <img src="/images/SpectrumAnalyzer.png"
-         alt="Home Audio System spectrum analyzer"
+    <img src="/images/FinalHomeAudioSystem.gif"
+         alt="Home Audio System demonstration"
          style="width:100%; height:100%; object-fit:contain; display:block;">
   </div>
 </div>
