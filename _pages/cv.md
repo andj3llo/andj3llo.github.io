@@ -15,7 +15,7 @@ Education
 * **B.S. in Computer Engineering, Virginia Tech** — Expected December 2027
   * Location: Blacksburg, VA
   * GPA: **3.61**
-  * Relevant Courses: Introduction to ECE Concepts, Computational Engineering, Fundamentals of Digital Systems, Circuits and Devices, Embedded Systems, Data Structures & Algorithms, Signals and Systems, Physical Electronics, Principles of Computer Architecture, Applied Software Design, Continuous and Discrete System Theory, Artificial Intelligence and Engineering Applications
+  * Relevant Courses: Embedded Systems, Principles of Computer Architecture, Fundamentals of Digital Systems, Continuous and Discrete System Theory, Signals and Systems, Applied Software Design, Data Structures & Algorithms, Artificial Intelligence and Engineering Applications
 
 Experience
 ==========
